@@ -1,5 +1,5 @@
 # Design a CI/CD on AWS CodePipeline to serve a static webpage through S3 on AWS Cloud-front, with ACM certificate
-[Solution Architecture](/cloud-management-ii.jpg?raw=true)
+![plot](/cloud-management-ii.jpg?raw=true)
 ## Modules
 -  AWS S3 Bucket
 -  AWS CodePipeline
